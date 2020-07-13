@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mHelloSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mConfig filename[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be named config.txt[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mparseTime[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return Tuple of hours and minutes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32minteractive set[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should correct set input values to ConfigData[0m[0m

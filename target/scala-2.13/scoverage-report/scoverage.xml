@@ -1,0 +1,1527 @@
+<scoverage 
+statement-count="463" statements-invoked="285" statement-rate="61.56" branch-rate="60.00" version="1.0" timestamp="1590244841087">
+    <packages>
+        <package name="example" statement-count="463" statements-invoked="285" statement-rate="61.56">
+            <classes>
+                <class 
+                name="example.Config" filename="App/Main.scala" statement-count="288" statements-invoked="152" statement-rate="52.78" branch-rate="50.00">
+                    <methods>
+                        <method 
+                        name="example/Config/showConfigData" statement-count="42" statements-invoked="42" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="1853" end="1867" line="63" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2457" end="2521" line="77" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2673" end="2708" line="80" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2077" end="2112" line="71" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2241" end="2305" line="74" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2529" end="2593" line="78" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2120" end="2161" line="72" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2313" end="2377" line="75" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="1940" end="1954" line="66" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2601" end="2665" line="79" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2028" end="2043" line="69" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2169" end="2233" line="73" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2385" end="2449" line="76" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="1758" end="1773" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2408" end="2447" line="76" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2624" end="2663" line="79" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2695" end="2708" line="80" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2264" end="2303" line="74" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2480" end="2519" line="77" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="1824" end="1838" line="62" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2099" end="2112" line="71" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2336" end="2375" line="75" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2552" end="2591" line="78" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="1911" end="1925" line="65" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2143" end="2160" line="72" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2714" end="2736" line="81" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2192" end="2231" line="73" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="1998" end="2012" line="68" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2065" end="2709" line="70" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2385" end="2403" line="76" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2601" end="2619" line="79" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="1969" end="1983" line="67" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2169" end="2187" line="73" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2457" end="2475" line="77" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="1788" end="1809" line="61" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2673" end="2691" line="80" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2077" end="2095" line="71" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2241" end="2259" line="74" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2313" end="2331" line="75" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2529" end="2547" line="78" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="1882" end="1896" line="64" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="showConfigData" start="2120" end="2138" line="72" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="example/Config/&lt;none&gt;" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="&lt;none&gt;" start="1107" end="1119" line="38" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="example/Config/interactiveSet" statement-count="201" statements-invoked="75" statement-rate="37.31" branch-rate="50.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5358" end="5396" line="155" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5797" end="5811" line="168" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6955" end="6955" line="197" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7144" end="7144" line="202" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="4871" end="4881" line="141" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6680" end="6680" line="190" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6293" end="6335" line="181" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6843" end="6876" line="195" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6405" end="6405" line="183" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6605" end="6610" line="188" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7505" end="7505" line="211" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6070" end="6070" line="173" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6051" end="6098" line="173" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7419" end="7419" line="209" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5101" end="5101" line="146" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5172" end="5212" line="148" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5377" end="5377" line="155" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7230" end="7230" line="204" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="4969" end="5023" line="143" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5377" end="5377" line="155" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5267" end="5278" line="152" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6680" end="6680" line="190" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6405" end="6405" line="183" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6393" end="6423" line="183" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6070" end="6070" line="173" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6134" end="6207" line="175" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5605" end="5605" line="163" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5101" end="5101" line="146" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5907" end="5967" line="170" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5366" end="5391" line="155" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5377" end="5377" line="155" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7980" end="7985" line="223" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="8055" end="8055" line="225" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5121" end="5123" line="146" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5101" end="5101" line="146" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7560" end="7608" line="212" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="8070" end="8072" line="225" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7419" end="7419" line="209" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7144" end="7144" line="202" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7505" end="7505" line="211" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7230" end="7230" line="204" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="8055" end="8055" line="225" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7780" end="7780" line="218" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7768" end="7798" line="218" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6420" end="6422" line="183" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6680" end="6680" line="190" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7694" end="7694" line="216" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="8189" end="8205" line="230" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6405" end="6405" line="183" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7505" end="7505" line="211" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6843" end="6885" line="195" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7969" end="7969" line="223" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="8055" end="8055" line="225" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6141" end="6207" line="175" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7393" end="7426" line="209" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7780" end="7780" line="218" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6955" end="6955" line="197" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7155" end="7160" line="202" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6669" end="6693" line="190" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7230" end="7230" line="204" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7780" end="7780" line="218" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5585" end="5612" line="163" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5998" end="6033" line="172" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6943" end="6973" line="197" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7505" end="7505" line="211" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7230" end="7230" line="204" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7494" end="7518" line="211" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5335" end="5340" line="154" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5377" end="5377" line="155" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5101" end="5101" line="146" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6735" end="6783" line="191" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6955" end="6955" line="197" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6070" end="6070" line="173" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6319" end="6319" line="181" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6405" end="6405" line="183" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5090" end="5119" line="146" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6594" end="6594" line="188" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6680" end="6680" line="190" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7245" end="7247" line="204" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7668" end="7710" line="216" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6405" end="6405" line="183" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6058" end="6098" line="173" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6330" end="6335" line="181" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5082" end="5124" line="146" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5377" end="5377" line="155" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5365" end="5396" line="155" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6680" end="6680" line="190" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6869" end="6869" line="195" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6955" end="6955" line="197" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5101" end="5101" line="146" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6568" end="6601" line="188" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5679" end="5733" line="166" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6070" end="6070" line="173" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5432" end="5493" line="157" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="8110" end="8158" line="226" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5377" end="5377" line="155" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5853" end="5866" line="169" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5152" end="5213" line="148" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6070" end="6070" line="173" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="4919" end="4932" line="142" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5101" end="5101" line="146" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="8055" end="8055" line="225" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7393" end="7435" line="209" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7780" end="7780" line="218" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7505" end="7505" line="211" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7943" end="7976" line="223" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7705" end="7710" line="216" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7219" end="7243" line="204" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6594" end="6594" line="188" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7144" end="7144" line="202" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6405" end="6405" line="183" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6869" end="6869" line="195" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6955" end="6955" line="197" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="8055" end="8055" line="225" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="8044" end="8068" line="225" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6680" end="6680" line="190" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7780" end="7780" line="218" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7505" end="7505" line="211" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7795" end="7797" line="218" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7230" end="7230" line="204" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7493" end="7523" line="211" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7285" end="7333" line="205" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7969" end="7969" line="223" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6405" end="6405" line="183" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5859" end="5865" line="169" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6394" end="6418" line="183" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6070" end="6070" line="173" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7505" end="7505" line="211" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7118" end="7151" line="202" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7694" end="7694" line="216" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5377" end="5377" line="155" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5439" end="5493" line="157" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6880" end="6885" line="195" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6955" end="6955" line="197" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="8055" end="8055" line="225" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5159" end="5213" line="148" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6154" end="6206" line="175" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7230" end="7230" line="204" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7419" end="7419" line="209" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6568" end="6610" line="188" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6680" end="6680" line="190" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7780" end="7780" line="218" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6460" end="6508" line="184" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6955" end="6955" line="197" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6970" end="6972" line="197" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6319" end="6319" line="181" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6405" end="6405" line="183" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6010" end="6032" line="172" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6070" end="6070" line="173" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5377" end="5377" line="155" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5605" end="5605" line="163" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5046" end="5068" line="145" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5101" end="5101" line="146" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5263" end="5279" line="152" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6680" end="6680" line="190" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6668" end="6698" line="190" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7230" end="7230" line="204" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6293" end="6326" line="181" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5585" end="5621" line="163" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6070" end="6070" line="173" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5377" end="5377" line="155" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6095" end="6097" line="173" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5393" end="5395" line="155" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5101" end="5101" line="146" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5089" end="5124" line="146" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7694" end="7694" line="216" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7780" end="7780" line="218" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="4925" end="4931" line="142" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="8043" end="8073" line="225" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7835" end="7883" line="219" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="8055" end="8055" line="225" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5101" end="5101" line="146" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7118" end="7160" line="202" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7505" end="7505" line="211" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6944" end="6968" line="197" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7430" end="7435" line="209" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6695" end="6697" line="190" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6955" end="6955" line="197" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7780" end="7780" line="218" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7969" end="7969" line="223" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="8055" end="8055" line="225" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7668" end="7701" line="216" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7230" end="7230" line="204" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6405" end="6405" line="183" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6070" end="6070" line="173" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6594" end="6594" line="188" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7520" end="7522" line="211" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7780" end="7780" line="218" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6319" end="6319" line="181" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="5616" end="5621" line="163" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6955" end="6955" line="197" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7943" end="7985" line="223" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6059" end="6093" line="173" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7218" end="7248" line="204" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7505" end="7505" line="211" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6680" end="6680" line="190" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7010" end="7058" line="198" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="6869" end="6869" line="195" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7230" end="7230" line="204" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="8055" end="8055" line="225" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="interactiveSet" start="7769" end="7793" line="218" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="example/Config/timeConvert" statement-count="12" statements-invoked="12" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="timeConvert" start="4331" end="4352" line="125" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="timeConvert" start="4418" end="4418" line="128" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="timeConvert" start="4081" end="4082" line="121" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="timeConvert" start="4200" end="4234" line="123" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="timeConvert" start="4262" end="4302" line="124" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="timeConvert" start="4012" end="4036" line="119" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="timeConvert" start="4410" end="4410" line="128" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="timeConvert" start="4144" end="4166" line="122" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="timeConvert" start="4086" end="4097" line="121" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="timeConvert" start="4396" end="4425" line="128" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="timeConvert" start="4277" end="4301" line="124" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="timeConvert" start="4071" end="4387" line="121" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="example/Config/writeFile" statement-count="5" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="writeFile" start="1254" end="1294" line="42" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="writeFile" start="1273" end="1293" line="42" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="writeFile" start="1315" end="1325" line="44" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="writeFile" start="1299" end="1310" line="43" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="writeFile" start="1222" end="1240" line="41" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="example/Config/updateTime" statement-count="11" statements-invoked="11" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="updateTime" start="3785" end="3840" line="113" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="updateTime" start="3644" end="3644" line="111" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="updateTime" start="3697" end="3752" line="112" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="updateTime" start="3592" end="3592" line="110" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="updateTime" start="3785" end="3809" line="113" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="updateTime" start="3640" end="3640" line="111" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="updateTime" start="3697" end="3721" line="112" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="updateTime" start="3697" end="3714" line="112" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="updateTime" start="3785" end="3802" line="113" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="updateTime" start="3857" end="3879" line="114" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="updateTime" start="3596" end="3596" line="110" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="example/Config/getDayTimetable" statement-count="7" statements-invoked="2" statement-rate="28.57" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="getDayTimetable" start="3235" end="3245" line="99" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="getDayTimetable" start="3328" end="3338" line="102" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="getDayTimetable" start="3390" end="3400" line="104" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="getDayTimetable" start="3204" end="3214" line="98" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="getDayTimetable" start="3297" end="3307" line="101" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="getDayTimetable" start="3266" end="3276" line="100" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="getDayTimetable" start="3359" end="3369" line="103" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="example/Config/configDataToInternal" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="configDataToInternal" start="4555" end="4576" line="132" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="configDataToInternal" start="4621" end="4660" line="134" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="configDataToInternal" start="4518" end="4533" line="131" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="configDataToInternal" start="4593" end="4616" line="133" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="example/Config/config" statement-count="5" statements-invoked="5" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="config" start="2928" end="2958" line="91" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="config" start="3063" end="3068" line="93" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="config" start="3033" end="3059" line="93" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="config" start="3011" end="3024" line="92" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Config" class-type="Object" full-class-name="example.Config" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="config" start="3033" end="3068" line="93" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="example.API" filename="App/Main.scala" statement-count="73" statements-invoked="58" statement-rate="79.45" branch-rate="33.33">
+                    <methods>
+                        <method 
+                        name="example/API/categories" statement-count="10" statements-invoked="10" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="categories" start="11665" end="11675" line="340" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="categories" start="11730" end="11749" line="342" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="categories" start="11756" end="11779" line="343" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="categories" start="11774" end="11774" line="343" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="categories" start="11756" end="11788" line="343" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="categories" start="11590" end="11644" line="339" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="categories" start="11585" end="11704" line="341" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="categories" start="11677" end="11681" line="340" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="categories" start="11774" end="11774" line="343" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="categories" start="11783" end="11788" line="343" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="example/API/cities" statement-count="8" statements-invoked="8" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="cities" start="12138" end="12143" line="355" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="cities" start="11937" end="11992" line="351" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="cities" start="12097" end="12110" line="354" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="cities" start="12115" end="12134" line="355" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="cities" start="12035" end="12054" line="353" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="cities" start="11932" end="12011" line="352" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="cities" start="12129" end="12129" line="355" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="cities" start="12115" end="12143" line="355" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="example/API/events" statement-count="55" statements-invoked="40" statement-rate="72.73" branch-rate="33.33">
+                            <statements>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13117" end="13117" line="379" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13064" end="13064" line="378" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12913" end="12918" line="375" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12483" end="13599" line="365" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="14142" end="14165" line="406" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12682" end="12696" line="370" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13095" end="13175" line="379" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13025" end="13025" line="378" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12987" end="13013" line="377" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12413" end="12430" line="362" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12747" end="12759" line="371" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13719" end="13765" line="400" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13031" end="13062" line="378" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12542" end="12852" line="374" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12957" end="13479" line="376" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13851" end="13890" line="402" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13234" end="13279" line="381" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12610" end="12621" line="368" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13270" end="13279" line="381" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13455" end="13469" line="389" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12792" end="12815" line="372" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13058" end="13062" line="378" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13785" end="13829" line="401" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13327" end="13418" line="384" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="14040" end="14133" line="405" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13118" end="13165" line="379" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12647" end="12657" line="369" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13505" end="13581" line="392" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12882" end="12909" line="375" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12931" end="12955" line="376" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12380" end="12391" line="361" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13734" end="13764" line="400" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="14178" end="14196" line="408" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13170" end="13175" line="379" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13025" end="13025" line="378" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12731" end="12745" line="371" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12547" end="12591" line="367" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13624" end="14173" line="399" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13064" end="13444" line="378" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13680" end="13680" line="399" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13192" end="13216" line="380" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13462" end="13462" line="389" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12778" end="12790" line="372" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13798" end="13828" line="401" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12982" end="13014" line="377" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12447" end="12459" line="363" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13123" end="13150" line="379" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12904" end="12904" line="375" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12623" end="12628" line="368" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13392" end="13402" line="385" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13559" end="13569" line="393" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13910" end="13947" line="403" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12882" end="12918" line="375" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="13095" end="13166" line="379" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="API" class-type="Object" full-class-name="example.API" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="events" start="12698" end="12712" line="370" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="example.Interface" filename="App/Main.scala" statement-count="88" statements-invoked="66" statement-rate="75.00" branch-rate="87.50">
+                    <methods>
+                        <method 
+                        name="example/Interface/printTryCities" statement-count="6" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTryCities" start="8543" end="8552" line="250" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTryCities" start="8506" end="8622" line="249" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTryCities" start="8586" end="8616" line="252" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTryCities" start="8492" end="8501" line="248" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTryCities" start="8570" end="8579" line="251" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTryCities" start="8627" end="8636" line="254" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="example/Interface/printTryCategories" statement-count="6" statements-invoked="6" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTryCategories" start="8770" end="8778" line="260" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTryCategories" start="8734" end="8847" line="259" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTryCategories" start="8720" end="8729" line="258" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTryCategories" start="8811" end="8841" line="262" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTryCategories" start="8852" end="8861" line="264" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTryCategories" start="8796" end="8804" line="261" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="example/Interface/printTryList" statement-count="4" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTryList" start="8362" end="8401" line="242" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTryList" start="8388" end="8401" line="243" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTryList" start="8348" end="8357" line="241" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTryList" start="8412" end="8421" line="245" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="example/Interface/printTry" statement-count="3" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTry" start="8925" end="8938" line="268" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTry" start="8911" end="8920" line="267" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="printTry" start="8943" end="8952" line="269" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="example/Interface/startPrompt" statement-count="69" statements-invoked="60" statement-rate="86.96" branch-rate="87.50">
+                            <statements>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10116" end="10150" line="302" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10399" end="10405" line="309" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10943" end="11115" line="320" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9462" end="9471" line="288" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9726" end="9726" line="294" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10203" end="10251" line="304" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10471" end="10568" line="314" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9589" end="9621" line="292" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9882" end="9908" line="297" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9074" end="9146" line="277" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9322" end="9342" line="285" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9088" end="9094" line="277" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="11269" end="11295" line="324" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9151" end="9151" line="278" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10332" end="10358" line="307" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9388" end="9437" line="286" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10735" end="10798" line="317" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9663" end="9689" line="293" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9109" end="9115" line="277" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10066" end="10084" line="301" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9222" end="9233" line="280" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9218" end="9218" line="280" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9130" end="9136" line="277" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10296" end="10308" line="306" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9163" end="11309" line="278" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10659" end="10724" line="316" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9942" end="9990" line="298" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10878" end="10932" line="319" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9736" end="9762" line="294" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9245" end="9254" line="281" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9354" end="9438" line="286" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10324" end="10359" line="307" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10135" end="10149" line="302" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9123" end="9129" line="277" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9807" end="9817" line="296" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9540" end="9542" line="291" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10391" end="10406" line="309" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="11189" end="11229" line="322" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9144" end="9145" line="277" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9285" end="9299" line="283" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10243" end="10250" line="304" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9085" end="9087" line="277" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9181" end="9211" line="279" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9374" end="9386" line="286" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9102" end="9108" line="277" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9574" end="9623" line="292" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="11126" end="11178" line="321" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9157" end="9161" line="278" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9163" end="9163" line="278" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9360" end="9372" line="286" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10579" end="10648" line="315" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9874" end="9909" line="297" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10275" end="10281" line="305" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9582" end="9622" line="292" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9095" end="9101" line="277" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9151" end="9151" line="278" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10043" end="10085" line="301" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9354" end="9438" line="286" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9655" end="9690" line="293" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9116" end="9122" line="277" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9252" end="9254" line="281" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10809" end="10867" line="318" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10324" end="10359" line="307" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9722" end="9763" line="294" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9218" end="9218" line="280" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9486" end="9493" line="290" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10391" end="10406" line="309" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="9137" end="9143" line="277" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Interface" class-type="Object" full-class-name="example.Interface" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="startPrompt" start="10234" end="10241" line="304" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="example.Main" filename="App/Main.scala" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="example/Main/&lt;none&gt;" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Main" class-type="Object" full-class-name="example.Main" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="&lt;none&gt;" start="14255" end="14268" line="416" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="example.Utils" filename="App/Main.scala" statement-count="13" statements-invoked="8" statement-rate="61.54" branch-rate="100.00">
+                    <methods>
+                        <method name="example/Utils/bind" statement-count="3" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Utils" class-type="Object" full-class-name="example.Utils" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="bind" start="927" end="931" line="27" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Utils" class-type="Object" full-class-name="example.Utils" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="bind" start="958" end="968" line="28" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Utils" class-type="Object" full-class-name="example.Utils" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="bind" start="919" end="932" line="27" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+                        </method>
+                        <method 
+                        name="example/Utils/parseTime" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Utils" class-type="Object" full-class-name="example.Utils" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="parseTime" start="776" end="793" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Utils" class-type="Object" full-class-name="example.Utils" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="parseTime" start="717" end="770" line="22" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Utils" class-type="Object" full-class-name="example.Utils" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="parseTime" start="775" end="816" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Utils" class-type="Object" full-class-name="example.Utils" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="parseTime" start="795" end="815" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="example/Utils/toTry" statement-count="6" statements-invoked="4" statement-rate="66.67" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="example" class="Utils" class-type="Object" full-class-name="example.Utils" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="toTry" start="545" end="563" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Utils" class-type="Object" full-class-name="example.Utils" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="toTry" start="598" end="643" line="19" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Utils" class-type="Object" full-class-name="example.Utils" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="toTry" start="515" end="565" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Utils" class-type="Object" full-class-name="example.Utils" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="toTry" start="469" end="488" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Utils" class-type="Object" full-class-name="example.Utils" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="toTry" start="523" end="564" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="example" class="Utils" class-type="Object" full-class-name="example.Utils" source="/home/daniil/workspace/scala/meeting/src/main/scala/App/Main.scala" method="toTry" start="590" end="644" line="19" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>
